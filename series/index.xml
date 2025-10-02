@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Moon&#39;s Delizie</title>
-    <link>thelearningspoon.moonsdelizie.com/series/</link>
+    <link>https://thelearningspoon.moonsdelizie.com/series/</link>
     <description>Recent content in Series on Moon&#39;s Delizie</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="thelearningspoon.moonsdelizie.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thelearningspoon.moonsdelizie.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>thelearningspoon.moonsdelizie.com/series/themes-guide/</link>
+      <link>https://thelearningspoon.moonsdelizie.com/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>thelearningspoon.moonsdelizie.com/series/themes-guide/</guid>
+      <guid>https://thelearningspoon.moonsdelizie.com/series/themes-guide/</guid>
       <description></description>
     </item>
   </channel>

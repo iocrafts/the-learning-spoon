@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Moon&#39;s Delizie</title>
-    <link>/tags/</link>
+    <link>https://thelearningspoon.moonsdelizie.com/tags/</link>
     <description>Recent content in Tags on Moon&#39;s Delizie</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thelearningspoon.moonsdelizie.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>/tags/index/</link>
+      <link>https://thelearningspoon.moonsdelizie.com/tags/index/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/index/</guid>
+      <guid>https://thelearningspoon.moonsdelizie.com/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://thelearningspoon.moonsdelizie.com/tags/markdown/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/markdown/</guid>
+      <guid>https://thelearningspoon.moonsdelizie.com/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>/tags/text/</link>
+      <link>https://thelearningspoon.moonsdelizie.com/tags/text/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/text/</guid>
+      <guid>https://thelearningspoon.moonsdelizie.com/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>/tags/css/</link>
+      <link>https://thelearningspoon.moonsdelizie.com/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/css/</guid>
+      <guid>https://thelearningspoon.moonsdelizie.com/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>/tags/html/</link>
+      <link>https://thelearningspoon.moonsdelizie.com/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/html/</guid>
+      <guid>https://thelearningspoon.moonsdelizie.com/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>/tags/privacy/</link>
+      <link>https://thelearningspoon.moonsdelizie.com/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/privacy/</guid>
+      <guid>https://thelearningspoon.moonsdelizie.com/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>/tags/shortcodes/</link>
+      <link>https://thelearningspoon.moonsdelizie.com/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/shortcodes/</guid>
+      <guid>https://thelearningspoon.moonsdelizie.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>/tags/emoji/</link>
+      <link>https://thelearningspoon.moonsdelizie.com/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/emoji/</guid>
+      <guid>https://thelearningspoon.moonsdelizie.com/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
